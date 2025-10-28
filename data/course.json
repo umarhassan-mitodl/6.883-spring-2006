@@ -33,7 +33,6 @@
     "website": "6-883-pervasive-human-centric-computing-sma-5508-spring-2006"
   },
   "course_title": "Pervasive Human Centric Computing (SMA 5508)",
-  "hide_download": true,
   "course_description": "This course is broad, covering a wide range of topics that have to do with the post-pc era of computing. It is a hands-on project course that also includes some foundational subjects. Students will program iPAQ handheld computers, cell phones (series 60 phones), speech processing, vision, Cricket location systems, GPS, and more. Most of the programming will be using Python\u00ae, but Python\u00ae can be learned and mastered during the course.\n\nThis course was also taught as part of the Singapore-MIT Alliance (SMA) programme as course number SMA 5508 (Pervasive Computing).\n",
   "department_numbers": [
     "6"
@@ -44,7 +43,6 @@
     "content": "332bff52-255e-0cdd-3f58-117b90396fda",
     "website": "6-883-pervasive-human-centric-computing-sma-5508-spring-2006"
   },
-  "hide_download_original": null,
   "learning_resource_types": [
     "Exams",
     "Lecture Notes",
