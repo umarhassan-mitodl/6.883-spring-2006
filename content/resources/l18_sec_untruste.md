@@ -5,8 +5,6 @@ description: 'This file contains notes for the topic: The Untrusted Computer Pro
 file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/1c9fc9f4cd78875531d0ab269d3e37c2_l18_sec_untruste.pdf
 file_size: 999217
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

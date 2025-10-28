@@ -4,8 +4,6 @@ description: This file contains notes for Connecting Metaglue Spaces Together.
 file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/f2f99ee89ae21ece63cb9fc57571e413_l20_hyperglue.pdf
 file_size: 590152
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

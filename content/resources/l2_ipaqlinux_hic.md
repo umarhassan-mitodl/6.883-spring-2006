@@ -5,8 +5,6 @@ description: This file contains the notes for Why linux, Ipaq on linux, handheld
 file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/7eb8f232593448d4e95938c2cf930333_l2_ipaqlinux_hic.pdf
 file_size: 2923968
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This file contains notes on GPS, its components, functions, sources
 file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/bc951518b56c054b5aeec3ff650ec92b_l5b.pdf
 file_size: 1564636
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

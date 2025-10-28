@@ -5,8 +5,6 @@ description: 'This file contains notes for the topic: Physical Unclonable Functi
 file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/9acdf75de5bfc9d786356b6587cd7071_l18_security_puf.pdf
 file_size: 434472
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

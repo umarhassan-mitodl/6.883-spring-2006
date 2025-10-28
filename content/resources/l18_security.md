@@ -4,8 +4,6 @@ description: This file contains notes for Security & Privacy.
 file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/128f72ded56ba00429ea6780c3061af1_l18_security.pdf
 file_size: 3610185
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

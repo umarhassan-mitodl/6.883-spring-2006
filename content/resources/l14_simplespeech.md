@@ -4,8 +4,6 @@ description: ''
 file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/736905d581d7f19080c0d719b78d14b9_l14_simplespeech.pdf
 file_size: 818139
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This file contains notes for user interface goal, manipulation, wid
 file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/a12dd94fa0f65365a37bd41a2bc5d7ee_l10_gui.pdf
 file_size: 2297043
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

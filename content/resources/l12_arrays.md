@@ -4,8 +4,6 @@ description: This file contains notes on Xwands and Arrays etc.
 file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/223cdcb238d64d9050ffee712a27b362_l12_arrays.pdf
 file_size: 2170854
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

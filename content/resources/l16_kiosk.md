@@ -5,8 +5,6 @@ description: This file contains intelligent environments, kiosks, useful informa
 file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/6cbc1ad87a18cdf843e75f40fc6fdaba_l16_kiosk.pdf
 file_size: 2727504
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

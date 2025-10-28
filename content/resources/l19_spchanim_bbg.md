@@ -5,8 +5,6 @@ description: 'This file contains notes for the topic: Debugging Applications in 
 file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/34f9b800ab16e2f76db96cc49379a01c_l19_spchanim_bbg.pdf
 file_size: 2844781
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

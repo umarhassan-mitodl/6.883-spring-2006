@@ -4,8 +4,6 @@ description: This file contains notes for How to create basic agents.
 file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/53c00caf948b4fbc13f5433a5340f0d8_l20_metaglue.pdf
 file_size: 842236
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

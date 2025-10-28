@@ -2,8 +2,6 @@
 content_type: page
 description: Calendar section contains the information about the topics covered during
   the course and key dates for assignment distribution and submission.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

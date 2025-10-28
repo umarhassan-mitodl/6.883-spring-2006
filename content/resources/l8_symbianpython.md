@@ -5,8 +5,6 @@ description: This file contains notes for phony programming, it lists various ki
 file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/ae56429eb6aca15265605d553547c785_l8_symbianpython.pdf
 file_size: 5252305
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

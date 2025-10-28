@@ -4,8 +4,6 @@ description: This file contains notes on Bluetooth.
 file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/174043c6531c12d2db27fb724842c42f_r2_bluetooth_tut.pdf
 file_size: 377442
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
